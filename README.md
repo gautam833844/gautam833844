@@ -1,29 +1,26 @@
-
 <h1 align="center" style="color:#e67e22; font-family:'Righteous', sans-serif; text-shadow: 4px 4px 20px rgba(0,0,0,0.5);">
     Gautam Reddy 🌟
 </h1>
 
-
-### 🎨 About Me
+### 🤖 About Me
 <div style="padding: 20px; background: linear-gradient(135deg, #f39c12, #f1c40f); border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); font-family: 'Arial', sans-serif;">
-  <p>I am a Student with a strong passion for Web Development and programming. I'm always exploring new technologies to stay ahead in the fast-evolving world of tech.</p>
+  <p>I am a student passionate about exploring the future of technology through IoT, Artificial Intelligence, and Machine Learning. I'm always curious about building smart systems that make life better.</p>
   <ul style="list-style-type:square;">
-    <li>💻 <strong>Web Development</strong>: Building scalable and responsive websites.</li>
-    <li>📚 <strong>Learning</strong>: Continuously upgrading my skills in languages like HTML, Python, C, and Java.</li>
-    <li>🔍 <strong>Problem-Solving</strong>: Passionate about tackling new challenges and improving efficiency in code.</li>
-    <li>🌱 <strong>Self-improvement</strong>: Aiming to be a full-stack developer with a focus on UI/UX design.</li>
+    <li>🤖 <strong>IoT:</strong> Working on embedded systems and microcontroller-based smart projects.</li>
+    <li>🧠 <strong>AI & ML:</strong> Developing intelligent systems using Python and ML libraries like scikit-learn and TensorFlow.</li>
+    <li>📚 <strong>Learning:</strong> Expanding my knowledge in C, Python, Java, and data-driven technologies.</li>
+    <li>🌱 <strong>Growth Mindset:</strong> Constantly evolving and learning to tackle real-world challenges.</li>
   </ul>
 </div>
 
 <hr style="border: 2px solid #2ecc71; width: 80%; margin: 20px auto;">
 
-
 ### 🚀 What I'm Focused On
 <div style="border: 2px solid #3498db; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); font-family: 'Arial', sans-serif;">
   <ul style="color:#3498db;">
-    <li><strong>Innovative Problem-Solving:</strong> Using creative techniques to address programming challenges.</li>
-    <li><strong>Collaboration:</strong> Working with teams and individuals to build impactful projects.</li>
-    <li><strong>UI/UX Design:</strong> Focusing on creating beautiful and functional interfaces.</li>
+    <li><strong>Innovative Problem-Solving:</strong> Building solutions in AI and IoT to automate and optimize tasks.</li>
+    <li><strong>Collaboration:</strong> Working with like-minded peers to develop impactful tech projects.</li>
+    <li><strong>Research & Development:</strong> Exploring real-world applications of machine learning in embedded environments.</li>
   </ul>
 </div>
 
@@ -33,7 +30,7 @@
 <div style="padding: 20px; background: linear-gradient(135deg, #3498db, #2980b9); color:white; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); font-family: 'Arial', sans-serif;">
   <ul>
     <li>🎓 Complete my <strong>B.Tech</strong> in <strong>Computer Science & Engineering</strong>.</li>
-    <li>🎓 Pursue a <strong>Master's Degree</strong> in Computer Science or Software Engineering.</li>
+    <li>🎓 Pursue a <strong>Master's Degree</strong> in Artificial Intelligence, Robotics, or Embedded Systems.</li>
   </ul>
 </div>
 
@@ -42,10 +39,10 @@
 ### 💪 Skills & Strengths
 <div style="background: linear-gradient(135deg, #9b59b6, #8e44ad); padding:20px; border-radius:15px; color:white; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); font-family: 'Arial', sans-serif;">
   <ul>
-    <li>💻 <strong>Programming:</strong> Proficient in languages such as <strong>C</strong>, <strong>Python</strong>, <strong>Java</strong>, and <strong>HTML</strong>.</li>
-    <li>🎮 <strong>Web Development:</strong> Experience in creating responsive websites using modern tools.</li>
-    <li>📊 <strong>Data Structures & Algorithms:</strong> Strong foundation in problem-solving and optimizing code.</li>
-    <li>🗣️ <strong>Communication:</strong> Clear and concise communication, especially in collaborative environments.</li>
+    <li>💻 <strong>Programming:</strong> C, Python, Java, HTML.</li>
+    <li>📡 <strong>IoT:</strong> Experience with sensors, Raspberry Pi, Arduino, and embedded systems.</li>
+    <li>🧠 <strong>AI/ML:</strong> Familiar with machine learning algorithms, data preprocessing, and libraries like TensorFlow and Scikit-learn.</li>
+    <li>🗣️ <strong>Communication:</strong> Effective teamwork and collaboration in tech projects.</li>
   </ul>
 </div>
 
@@ -62,7 +59,7 @@
 
 ### ⚒️ Languages & Tools ⚒️
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,python,c,java,linux" alt="Languages & Tools" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,python,c,java,linux,raspberrypi,tensorflow" alt="Languages & Tools" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
 <hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
@@ -79,7 +76,6 @@
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=gautam833844&theme=tokyonight&border_radius=10" alt="GitHub Streak" style="border-radius: 10px;" />
 </div>
 
-<!-- GitHub Trophies -->
 <hr style="border: 2px solid #e67e22; width: 80%; margin: 20px auto;">
 
 ### 🌐 Connect With Me
