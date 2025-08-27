@@ -59,8 +59,13 @@
 
 ### ⚒️ Languages & Tools ⚒️
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,python,c,java,linux,raspberrypi,tensorflow" alt="Languages & Tools" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,python,c,java,linux,raspberrypi,tensorflow,arduino,blender" />
 </div>
+
+<!-- Fusion 360 separate badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</p>
 
 <hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
 
@@ -76,17 +81,22 @@
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=gautam833844&theme=tokyonight&border_radius=10" alt="GitHub Streak" style="border-radius: 10px;" />
 </div>
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautam833844&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
 <hr style="border: 2px solid #e67e22; width: 80%; margin: 20px auto;">
 
 ### 🌐 Connect With Me
 <div align="center">
-    <a href="mailto:gautam.reddy@domain.com">
+    <a href="mailto:gautamreddy833@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Button"/>
     </a>
     <a href="https://github.com/gautam833844">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
     </a>
-    <a href="https://www.linkedin.com/in/gautam-reddy">
+    <a href="https://www.linkedin.com/in/gautam-reddy-k-a78823293/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
     </a>
 </div>
