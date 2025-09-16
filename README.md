@@ -6,10 +6,10 @@
 <div style="padding: 20px; background: linear-gradient(135deg, #f39c12, #f1c40f); border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); font-family: 'Arial', sans-serif;">
   <p>I am a student passionate about exploring the future of technology through IoT, Artificial Intelligence, and Machine Learning. I'm always curious about building smart systems that make life better.</p>
   <ul style="list-style-type:square;">
-    <li>🤖 <strong>IoT:</strong> Working on embedded systems and microcontroller-based smart projects.</li>
-    <li>🧠 <strong>AI & ML:</strong> Developing intelligent systems using Python and ML libraries like scikit-learn and TensorFlow.</li>
-    <li>📚 <strong>Learning:</strong> Expanding my knowledge in C, Python, Java, and data-driven technologies.</li>
-    <li>🌱 <strong>Growth Mindset:</strong> Constantly evolving and learning to tackle real-world challenges.</li>
+    <li> <strong>IoT:</strong> Working on embedded systems and microcontroller-based smart projects.</li>
+    <li> <strong>AI & ML:</strong> Developing intelligent systems using Python and ML libraries like scikit-learn and TensorFlow.</li>
+    <li> <strong>Learning:</strong> Expanding my knowledge in C, Python, Java, and data-driven technologies.</li>
+    <li> <strong>Growth Mindset:</strong> Constantly evolving and learning to tackle real-world challenges.</li>
   </ul>
 </div>
 
